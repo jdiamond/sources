@@ -1,0 +1,19 @@
+{
+    "jquery": "http://code.jquery.com/jquery.js",
+    "qunit": [
+        "http://code.jquery.com/qunit/qunit-1.11.0.js",
+        "http://code.jquery.com/qunit/qunit-1.11.0.css"
+    ],
+    "bootstrap": [
+        "jquery",
+        "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
+    ],
+    "underscore": "http://underscorejs.org/underscore.js",
+    "backbone": [
+        "jquery",
+        "underscore",
+        "http://backbonejs.org/backbone.js"
+    ],
+    "q": "https://raw.github.com/kriskowal/q/master/q.js",
+    "requirejs": "http://requirejs.org/docs/release/2.1.5/comments/require.js"
+}
